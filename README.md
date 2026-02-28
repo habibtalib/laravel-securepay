@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/habibtalib/securepay-woocommerce/feature/v2-api/assets/images/logo-securepay.svg" alt="SecurePay" width="200">
+  <img src="assets/images/logo-securepay.svg" alt="SecurePay" width="200">
 </p>
 
 <h1 align="center">Laravel SecurePay</h1>
